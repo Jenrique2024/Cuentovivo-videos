@@ -1,0 +1,238 @@
+{
+  "id": "ep-01",
+  "episodeNumber": 1,
+  "title": "El Misterio de la Nube Ballena",
+  "targetAge": "2 a 5 años",
+  "aspectRatio": "16:9",
+  "totalDurationSec": 180,
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "title": "Buenos días en la Pradera",
+      "startTimeSec": 0,
+      "durationSec": 15,
+      "keyframeUrl": "/src/assets/images/episode_01_scene_meadow_1795566233525.jpg",
+      "dialogues": [
+        {
+          "speaker": "Narradora",
+          "voiceId": "Kore",
+          "line": "¡Hola, pequeños exploradores! Hoy el viento trae una sorpresa en la Pradera Dorada."
+        },
+        {
+          "speaker": "Bombo",
+          "voiceId": "Puck",
+          "line": "¡Hola, amigos! ¿Están listos para mirar al cielo con Pipa y conmigo?"
+        }
+      ]
+    },
+    {
+      "sceneNumber": 2,
+      "title": "La Lupa de Pipa",
+      "startTimeSec": 15,
+      "durationSec": 15,
+      "keyframeUrl": "/src/assets/images/episode_01_scene_meadow_1795566233525.jpg",
+      "dialogues": [
+        {
+          "speaker": "Pipa",
+          "voiceId": "Zephyr",
+          "line": "¡Miren lo que guardé en mi bolsita! ¡Es mi lupa busca-nubes!"
+        },
+        {
+          "speaker": "Bombo",
+          "voiceId": "Puck",
+          "line": "¡Guau! Y yo tengo mis gafas azules de aviador. ¿Qué ven allá arriba?"
+        }
+      ]
+    },
+    {
+      "sceneNumber": 3,
+      "title": "Una Sombra Suave en el Pasto",
+      "startTimeSec": 30,
+      "durationSec": 15,
+      "keyframeUrl": "/src/assets/images/episode_01_scene_meadow_1795566233525.jpg",
+      "dialogues": [
+        {
+          "speaker": "Narradora",
+          "voiceId": "Kore",
+          "line": "De pronto, una sombra suave pasó por las flores... ¡tic, tac, miren arriba!"
+        },
+        {
+          "speaker": "Bombo",
+          "voiceId": "Puck",
+          "line": "¡Parece una ballena gigante hecha de algodón!"
+        }
+      ]
+    },
+    {
+      "sceneNumber": 4,
+      "title": "Salto y Saludito a la Nube",
+      "startTimeSec": 45,
+      "durationSec": 15,
+      "keyframeUrl": "/src/assets/images/episode_01_scene_cloud_1795566234225.jpg",
+      "dialogues": [
+        {
+          "speaker": "Pipa",
+          "voiceId": "Zephyr",
+          "line": "¡Vamos a saludarla dando dos saltitos! Uno... ¡y dos!"
+        },
+        {
+          "speaker": "Bombo",
+          "voiceId": "Puck",
+          "line": "¡Hola, Nube Ballena! ¿Por qué vas flotando tan despacito?"
+        }
+      ]
+    },
+    {
+      "sceneNumber": 5,
+      "title": "El Suspiro Luminoso",
+      "startTimeSec": 60,
+      "durationSec": 15,
+      "keyframeUrl": "/src/assets/images/episode_01_scene_cloud_1795566234225.jpg",
+      "dialogues": [
+        {
+          "speaker": "Narradora",
+          "voiceId": "Kore",
+          "line": "La Nube Ballena dejó escapar un suspiro suavecito. ¡Su luz casi se apagaba!"
+        },
+        {
+          "speaker": "Pipa",
+          "voiceId": "Zephyr",
+          "line": "¡Oh, no! Necesita tres estrellitas doradas para recordar su canción de buenas noches."
+        }
+      ]
+    },
+    {
+      "sceneNumber": 6,
+      "title": "Buscando los Colores del Cielo",
+      "startTimeSec": 75,
+      "durationSec": 15,
+      "keyframeUrl": "/src/assets/images/episode_01_scene_cloud_1795566234225.jpg",
+      "dialogues": [
+        {
+          "speaker": "Bombo",
+          "voiceId": "Puck",
+          "line": "Amigos en casa, ¿nos ayudan a buscar las estrellas? ¿De qué color brilla el cielo?"
+        },
+        {
+          "speaker": "Narradora",
+          "voiceId": "Kore",
+          "line": "¡Sí! Rosita, violeta y dorado suave. ¡Ya casi aparecen!"
+        }
+      ]
+    },
+    {
+      "sceneNumber": 7,
+      "title": "Contemos Tres Estrellas",
+      "startTimeSec": 90,
+      "durationSec": 15,
+      "keyframeUrl": "/src/assets/images/episode_01_scene_cloud_1795566234225.jpg",
+      "dialogues": [
+        {
+          "speaker": "Pipa",
+          "voiceId": "Zephyr",
+          "line": "¡Cuenten conmigo! ¡Una estrella!... ¡Dos estrellas!... ¡Y tres estrellas doradas!"
+        },
+        {
+          "speaker": "Bombo",
+          "voiceId": "Puck",
+          "line": "¡Lo lograron! ¡Miren cómo sonríen allá arriba!"
+        }
+      ]
+    },
+    {
+      "sceneNumber": 8,
+      "title": "El Estribillo de la Nube",
+      "startTimeSec": 105,
+      "durationSec": 15,
+      "keyframeUrl": "/src/assets/images/episode_01_scene_cloud_1795566234225.jpg",
+      "dialogues": [
+        {
+          "speaker": "Bombo",
+          "voiceId": "Puck",
+          "line": "Nada, nada, nube blanca, por el cielo de algodón; brilla, brilla con nosotros..."
+        },
+        {
+          "speaker": "Pipa",
+          "voiceId": "Zephyr",
+          "line": "¡...con tres notas de canción! ¡La-la-la, qué dulce son!"
+        }
+      ]
+    },
+    {
+      "sceneNumber": 9,
+      "title": "El Giro Feliz de la Ballena",
+      "startTimeSec": 120,
+      "durationSec": 15,
+      "keyframeUrl": "/src/assets/images/episode_01_scene_cloud_1795566234225.jpg",
+      "dialogues": [
+        {
+          "speaker": "Narradora",
+          "voiceId": "Kore",
+          "line": "¡Qué maravilla! La Nube Ballena recuperó todo su brillo y dio una voltereta en el aire."
+        },
+        {
+          "speaker": "Bombo",
+          "voiceId": "Puck",
+          "line": "¡Guau! ¡Parece que está bailando entre las estrellas!"
+        }
+      ]
+    },
+    {
+      "sceneNumber": 10,
+      "title": "Un Regalo de Luz",
+      "startTimeSec": 135,
+      "durationSec": 15,
+      "keyframeUrl": "/src/assets/images/episode_01_scene_cloud_1795566234225.jpg",
+      "dialogues": [
+        {
+          "speaker": "Pipa",
+          "voiceId": "Zephyr",
+          "line": "Miren, Bombo: nos dejó una chispita de luz para guardarla en nuestro cuaderno de viajes."
+        },
+        {
+          "speaker": "Bombo",
+          "voiceId": "Puck",
+          "line": "Así siempre recordaremos que ayudar con calma hace brillar el mundo."
+        }
+      ]
+    },
+    {
+      "sceneNumber": 11,
+      "title": "Respiramos Profundo",
+      "startTimeSec": 150,
+      "durationSec": 15,
+      "keyframeUrl": "/src/assets/images/episode_01_scene_cloud_1795566234225.jpg",
+      "dialogues": [
+        {
+          "speaker": "Narradora",
+          "voiceId": "Kore",
+          "line": "Antes de despedirnos, vamos a respirar despacito como una nube tranquila..."
+        },
+        {
+          "speaker": "Bombo",
+          "voiceId": "Puck",
+          "line": "Inhalamos aire fresquito... y soltamos una gran sonrisa."
+        }
+      ]
+    },
+    {
+      "sceneNumber": 12,
+      "title": "¡Hasta el Próximo Episodio!",
+      "startTimeSec": 165,
+      "durationSec": 15,
+      "keyframeUrl": "/src/assets/images/episode_01_scene_cloud_1795566234225.jpg",
+      "dialogues": [
+        {
+          "speaker": "Pipa",
+          "voiceId": "Zephyr",
+          "line": "¡Gracias por contar y cantar con nosotros, amigos!"
+        },
+        {
+          "speaker": "Bombo",
+          "voiceId": "Puck",
+          "line": "¡Adiós! ¡Nos vemos muy pronto en el próximo episodio de aventuras!"
+        }
+      ]
+    }
+  ]
+}
